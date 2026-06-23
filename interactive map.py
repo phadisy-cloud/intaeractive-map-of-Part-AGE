@@ -117,7 +117,7 @@ regions = {
     "CCAS Aubiere": [
         "Aubiere1.svg",
         "Aubiere2.svg",
-        "aubiere.pdf"
+        "Aubiere.pdf"
     ],
 
     "SIVOM de la Vallée de l’Anse": [
