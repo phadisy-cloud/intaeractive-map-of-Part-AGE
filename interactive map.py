@@ -75,7 +75,7 @@ regions = {
     "Cebazat-SISPA": [
         "Cebazat1.svg",
         "Cebazat2.svg",
-        "Cebazat.pdf"
+        "Cebazat SISPA.pdf"
     ],
 
     "CCAS Beaumont": [
