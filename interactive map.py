@@ -86,7 +86,7 @@ regions = {
 
     "CIAS Riom Limagne et Volcans": [
         "CiAS Riom Limagne et Volcans1.svg",
-        "CIAS Riom Limagne et Volcans2.svg",
+        "CIAS Riom Limagne et Volcans.svg",
         "CiAS Riom Limagne et Volcans.pdf"
     ],
     
