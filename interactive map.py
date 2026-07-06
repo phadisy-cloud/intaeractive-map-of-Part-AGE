@@ -84,10 +84,10 @@ regions = {
         "beaumont.pdf"
     ],
 
-    "CiAS Riom Limagne et Volcans": [
-        "CiAS Riom Limagne et Volcans1.svg",
-        "CiAS Riom Limagne et Volcans2.svg",
-        "CiAS Riom Limagne et Volcans.pdf"
+    "CIAS Riom Limagne et Volcans": [
+        "CIAS Riom Limagne et Volcans1.svg",
+        "CIAS Riom Limagne et Volcans2.svg",
+        "CIAS Riom Limagne et Volcans.pdf"
     ],
     
     "SIVOS de Billom": [
@@ -126,9 +126,9 @@ regions = {
         "SIVOM de la Vallée de l’Anse.pdf"
     ],
 
-    "Com.Com. Chavanon Combrailles et Volcans Pontaumur": [
-        "Com.Com. Chavanon Combrailles et Volcans Pontaumur1.svg",
-        "Com.Com. Chavanon Combrailles et Volcans Pontaumur2.svg",
+    "Com.Com. Chavanon Combrailles et Volcans": [
+        "Com.Com. Chavanon Combrailles et Volcans1.svg",
+        "Com.Com. Chavanon Combrailles et Volcans.svg",
         "Com.Com. Chavanon Combrailles et Volcans Pontaumur.pdf"
     ],
 }
