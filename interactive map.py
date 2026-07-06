@@ -127,7 +127,7 @@ regions = {
     ],
 
     "Com.Com. Chavanon Combrailles et Volcans": [
-        "Com.Com. Chavanon Combrailles et Volcans pontaumur1.svg",
+        "Com.Com. Chavanon Combrailles et Volcans Pontaumur1.svg",
         "Com.Com. Chavanon Combrailles et Volcans.svg",
         "Com.Com. Chavanon Combrailles et Volcans Pontaumur.pdf"
     ],
