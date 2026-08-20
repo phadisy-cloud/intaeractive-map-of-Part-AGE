@@ -131,6 +131,18 @@ regions = {
         "Com.Com. Chavanon Combrailles et Volcans.svg",
         "Com.Com. Chavanon Combrailles et Volcans Pontaumur.pdf"
     ],
+    
+    "Com.Com. Combrailles, Sioule & Morge": [
+        "Com.Com. Combrailles, Sioule & Morge1.svg",
+        "Com.Com. Combrailles, Sioule & Morge2.svg",
+        "Com.Com. Combrailles, Sioule & Morge.pdf"
+    ],
+
+    "CCAS de Romagnat": [
+        "CCAS de Romagnat1.svg",
+        "CCAS de Romagnat2.svg",
+        "CCAS de Romagnat.pdf"
+    ],
 }
 
 # ============================================================
